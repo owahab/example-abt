@@ -1,0 +1,4 @@
+development:
+  mongo_url: mongo:27017/test
+production:
+  mongo_url: <%= ENV['MONGO_URL'] %>
