@@ -1,0 +1,8 @@
+body {
+  font: 1rem "CeraPRO-Regular", Helvetica, Arial, sans-serif;
+  background-color: #EEE;
+}
+
+label {
+  min-width: 4rem;
+}
